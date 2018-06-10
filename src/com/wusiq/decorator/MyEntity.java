@@ -1,4 +1,4 @@
-package decorator;
+package com.wusiq.decorator;
 
 /**
  * 所有的被装饰的实体都实现超级接口

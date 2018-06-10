@@ -1,4 +1,4 @@
-package decorator;
+package com.wusiq.decorator;
 
 /**
  * ³¬¼¶½Ó¿Ú

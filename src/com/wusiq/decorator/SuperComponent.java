@@ -1,4 +1,4 @@
-package decorator;
+package com.wusiq.decorator;
 
 /**
  * 超级组件实现超级接口
