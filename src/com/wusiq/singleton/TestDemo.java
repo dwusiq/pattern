@@ -17,5 +17,9 @@ public class TestDemo {
 	  Singleton04 s4_01 = Singleton04.INSTANCE;
 	  Singleton04 s4_02 = Singleton04.INSTANCE;
 	  System.out.println(s4_01==s4_02);
+	  
+	  Singleton05 s5_01 = Singleton05.getInstance();
+	  Singleton05 s5_02 = Singleton05.getInstance();
+	  System.out.println(s5_01==s5_02);
   }
 }
